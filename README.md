@@ -25,7 +25,7 @@
 Contributions to this project are welcome. If you find any issues or would like to suggest improvements, you can contact me directly to my social media accounts linked in icons for fast transactions.
 
 # Live Link Site
-You may access this personal website upon opening the link with vscode: [[http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index%20(1).html)](https://gabriel3140.github.io/YamsuanPersonalWeb/)
+You may access this personal website upon opening the link with vscode: (https://gabriel3140.github.io/YamsuanPersonalWeb/)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
