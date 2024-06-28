@@ -14,5 +14,22 @@
 ![image](https://github.com/coleenroxas16/gabriel-.-../assets/168961085/4ec1845d-d595-4bbb-b1f3-a1c39b2e8ac6)
 ![image](https://github.com/coleenroxas16/gabriel-.-../assets/168961085/e91be27b-76ed-47aa-ab06-57ee860426ef)
 
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Live Link
+- Boxicons
+
+## Contributing 
+Contributions to this project are welcome. If you find any issues or would like to suggest improvements, you can contact me directly to my social media accounts linked in icons for fast transactions.
+
+# Live Link Site
+You may access this personal website upon opening the link with vscode: [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index%20(1).html)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+```
+
 
 
